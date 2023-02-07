@@ -1,0 +1,85 @@
+{
+    "experience": [
+      {
+        "Company_name": "Status Neo",
+        "position": "Senior Consultant",
+        "tech": "Flutter",
+        "period": "November 2022 - Present",
+        "is_working": true,
+        "client":"Reliance JIO",
+        "roles": [
+          "Working With Reliance JIO team as a Flutter Engineer to fulfill project needs",
+          "Working on Different platform Mobile,Desktop and Web applications",
+          "Daily communicate with Team and Team Leaders to Manage daily task and discuss on upcoming tasks"
+        ]
+      },
+      {
+        "Company_name": "TCS",
+        "tech": "Android",
+        "position": "Senior",
+        "period": "Januart 2022 - Present",
+        "is_working": false,
+        "client":"DSG Sporting",
+        "roles": [
+          "Worked as Senior Android developer to create POC for new project and show it to client",
+          "Learn Latest technology like Jetpack Compose, Dagger2 in that POC",
+          "Participate daily scrum call adnd help each other team member to achieve goals"
+        ]
+      },
+      {
+        "Company_name": "HCL",
+        "tech": "Android",
+        "position": "Lead Engineer",
+        "period": "May 2021 - September 2022",
+        "is_working": false,
+        "client":"Manchestar United",
+        "roles": [
+          "Worked on MvvM, Clean Architecture on already develped MU application",
+          "Hnalde Live Vide scenario or PIP mode when application is in background",
+          "Implement Sound Bar animation and Live Audio Animation on Particular Screen",
+          "Fixed Bugs in production if any Incident happend"
+        ]
+      },
+      {
+        "Company_name": "Zimble Code",
+        "tech": "Flutter,Android",
+        "position": "Team Lead Mobile",
+        "period": "October 2019 - March 2021",
+        "is_working": false,
+        "client":"In House",
+        "roles": [
+          "Worked as Android/Flutter Team Lead",
+          "Meeting with team and manage/assign task to them and discussion on any blockers if come",
+          "Worked on Live Video Application using Twillio SDK nad Calendar application",
+          "Worked on Totally Local application with MvvM and Jetpack Component with multiple Languages",
+          "Sucessfully maintained updated tested and cleaned code on GIT "
+        ]
+      },
+      {
+        "Company_name": "Allengers Infotech",
+        "tech": "Flutter,Android,Java FX",
+        "position": "Asociate. Lead Android",
+        "period": "March 2017 - October 2019",
+        "is_working": false,
+        "client":"In House",
+        "roles": [
+          "Worked Closely with Other Team memvers to create IN house app of existing web application",
+          "Created Dynamic form of CRM app, Admin can change these fields from Backend server and it will dynamically update on Mobile Application",
+          "Worked on Flutter when it was in its Beta Stage and completed app with API's and Local Database"
+        ]
+      },
+      {
+        "Company_name": "Emobx",
+        "tech": "Android",
+        "position": "Android Developer",
+        "client":"In House",
+        "period": "March 2014 - February 2017",
+        "is_working": false,
+        "roles": [
+          "Quickly Lear new skills and applied them to daily task",
+          "Improve efficiency and productivity",
+          "Worked as Junior Developer to fulfill Team Lead requirement for Particular Project"
+        ]
+      }
+    ]
+  }
