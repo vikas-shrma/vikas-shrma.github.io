@@ -17362,7 +17362,7 @@ var $async$a6o=A.a1(function(a,b){if(a===1)return A.Y(b,r)
 while(true)switch(s){case 0:p=A
 o=B.az
 s=3
-return A.a4($.y_().Xg("exp.json"),$async$a6o)
+return A.a4($.y_().Xg("assets/data.json"),$async$a6o)
 case 3:q=p.aaE(o.cI(0,b),t.N,t.z)
 s=1
 break
