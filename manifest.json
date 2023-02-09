@@ -1,11 +1,11 @@
 {
-    "name": "your_portfolio",
-    "short_name": "your_portfolio",
+    "name": "Vikas Sharma",
+    "short_name": "Vikas Sharma",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Vikas Sharma Portfolio Page",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
